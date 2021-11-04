@@ -2,11 +2,13 @@
 ### I making mini projects to get experience in languages💪
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
+![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 
 ![Snake :)](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Links:
+
+![Html](dsfsdf)
 
 
