@@ -1,8 +1,6 @@
 ### Hi! I small coder from russia 👨‍💻
 ### I making mini projects to get experience in languages💪
 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
