@@ -1,18 +1,7 @@
-### Hi! I small coder from russia 👨‍💻
-### I making mini projects to get experience in languages💪
+<h1 align="center">Hi рџ‘‹, I'm Marcus</h1>
+<h3 align="center">I'm a web-backend developer and DevOps, y.o 17. Active programming experience 3 years, started learning since I was 13 years old</h3>
 
-![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-
-### Links:
-
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/encryptedrose)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCwn6-xUrtzWlXvdKC0Mu4IA)
-
-##
-
-
-![Snake :)](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
