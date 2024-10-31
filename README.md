@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write articles on [https://t.me/hex_array](https://t.me/hex_array)
+- 📝 I regularly write post on [My blog](https://t.me/hex_array)
 
 - 💬 Ask me about **php, golang, web**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/internet.monster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="internet.monster" height="30" width="40" /></a>
+<a href="https://t.me/phpdump" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="phpdump" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
