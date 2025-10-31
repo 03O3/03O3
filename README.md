@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write post on [My blog](https://t.me/hex_array)
-
 - 💬 Ask me about **php, golang, web**
 
 - ⚡ Fun fact **I can't fix your microwave**
