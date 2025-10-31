@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
-<h3 align="center">I'm a web-backend developer and DevOps, y.o 18. Active programming experience 3 years, started learning since I was 13 years old</h3>
+<h3 align="center">I'm a web-backend developer and DevOps, y.o 18. Active programming experience 5 years, started learning since I was 13 years old</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03o3&label=Profile%20views&color=0e75b6&style=flat" alt="03o3" /> </p>
 
